@@ -5,3 +5,4 @@ Hey! My online name is Neesh, and I'm 15 years old! I plan to make a career in C
 ## Contact Me
 Twitter: https://twitter.com/Neesh774
 Discord: 🧀♅ツNeeshツ♅🧀#8152
+Email: neesh774@gmail.com
