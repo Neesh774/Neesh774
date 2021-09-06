@@ -6,7 +6,9 @@ Hey! My online name is Neesh, and I'm 15 years old! I plan to make a career in C
 [![discord](https://img.shields.io/discord/646470157996261406?color=%235865F2&label=Discord&style=for-the-badge)](https://discord.gg/4Hd8MxuJkv)
 
 ![Metrics](https://metrics.lecoq.io/Neesh774?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FNew_York)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neesh774&show_icons=true&locale=en)
+
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=neesh774)
 
 ## Contact Me
