@@ -4,6 +4,10 @@ Hey! My name's Kanishq, and I'm 16 years old! I plan to make a career in Compute
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Neesh774) 
 [![discord](https://img.shields.io/discord/646470157996261406?color=%235865F2&label=Discord&style=for-the-badge)](https://discord.gg/4Hd8MxuJkv)
+### Monad
+<a href="https://www.producthunt.com/posts/monad?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-monad" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=325718&theme=light" alt="Monad - Share and discover code snippets | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+### Bubble
+<a href="https://www.producthunt.com/posts/bubble-bccad9aa-c34b-4be8-ac4b-4fe0603ef62b?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-bubble-bccad9aa-c34b-4be8-ac4b-4fe0603ef62b" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=327614&theme=light" alt="Bubble - Your digital notepad. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ## 📂 Projects
 - [Toast](https://discord.gg/b8ugMm7nvc) | The best image creation Discord Bot out there!
