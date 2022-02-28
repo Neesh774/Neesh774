@@ -10,10 +10,9 @@ Hey! My name's Kanishq, and I'm 16 years old! I plan to make a career in Compute
 <a href="https://www.producthunt.com/posts/bubble-bccad9aa-c34b-4be8-ac4b-4fe0603ef62b?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-bubble-bccad9aa-c34b-4be8-ac4b-4fe0603ef62b" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=327614&theme=light" alt="Bubble - Your digital notepad. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ## 📂 Projects
-- [Toast](https://discord.gg/b8ugMm7nvc) | The best image creation Discord Bot out there!
 - [Monad](https://monad.ilioslabs.dev) | A quick way to find and share code snippets.
-- [Beano](https://github.com/Neesh774/Beano) | A general purpose Discord Bot.
 - [Bubble](https://bubble.ilioslabs.dev) | A minimalistic note pad.
+- [Fida](https://friendships.bio) | A supercharged contacts app.
 
 ## ⚒️ Languages and Tools
 <p align="left">
