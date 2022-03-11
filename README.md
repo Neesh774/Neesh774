@@ -15,23 +15,10 @@ Hey! My name's Kanishq, and I'm 16 years old! I plan to make a career in Compute
 - [Fida](https://friendships.bio) | A supercharged contacts app.
 
 ## ⚒️ Languages and Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-f1502f?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-61dbfb?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/tailwind%20css-38B2AC?style=for-the-badge&logo=tailwind%20css&logoColor=white"/>
-   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-   <img src="https://img.shields.io/badge/postgres-blue?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<p align="center">
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=js,py,html,css,git,java,md,mongodb,nextjs,mysql,nodejs,react,svelte,ts,tailwind" />
+	</a>
 </p>
 
 ## 🧮 Stats
