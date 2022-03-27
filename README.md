@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey! My name's Kanishq, and I'm 16 years old! I plan to make a career in Computer Science because I'm super passionate about it. I was first interested in the intricacies of coding in 3rd grade, because of the Hour of Code program, and that introduced me to languages like Java, Javascript, Python, and showed me that there was a whole world for me to explore. Ever since, I've been doing languages like those and tinkering, and you can see all my progress in my repositories.
+Hey! My name's Kanishq, and I'm 16 years old! I plan to pursuie a career in Computer Science because I'm super passionate about programming and computers. I was first interested in the intricacies of coding in 3rd grade, because of the Hour of Code program, and that introduced me to languages like Java, Javascript, Python, and showed me that there was a whole world for me to explore. Ever since, I've been doing languages like those and tinkering, and you can see all my progress in my repositories.
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Neesh774) 
 [![discord](https://img.shields.io/discord/646470157996261406?color=%235865F2&label=Discord&style=for-the-badge)](https://discord.gg/4Hd8MxuJkv)
