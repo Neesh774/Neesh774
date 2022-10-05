@@ -6,9 +6,8 @@ Hey! My name's Kanishq. I'm a senior in high school doing my best to make lives 
 [![discord](https://img.shields.io/discord/646470157996261406?color=%235865F2&label=Discord&style=for-the-badge)](https://discord.gg/4Hd8MxuJkv)
 
 ## 📂 Projects
-- Luck | A cleaner email client.
-- [ChiTest](https://chitest.xyz) | Studying doesn't need to be as restrictive as term-definition.
-- [Scholar](https://github.com/Neesh774/Scholar) | Making my Notion page more dynamic using the Notion API.
+- [Builderbaut](https://github.com/buildergroop/baut_new) | The official Discord bot for Buildergroop.
+- [Ilios Labs](https://ilioslabs.dev) | My personal website
 
 ## ⚒️ Languages and Tools
 <p align="center">
