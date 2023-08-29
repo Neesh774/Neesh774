@@ -6,8 +6,7 @@ Hey! I'm Kanishq. I'm a senior in high school, and I love coding. I work on proj
 [![discord](https://img.shields.io/discord/646470157996261406?color=%235865F2&label=Discord&style=for-the-badge)](https://discord.gg/4Hd8MxuJkv)
 
 ## 📂 Projects
-- [Builderbaut](https://github.com/buildergroop/baut_new) | The official Discord bot for Buildergroop.
-- [Ilios Labs](https://ilioslabs.dev) | My personal website
+- [Changelog](https://changelog.bio) | Show people what you're building
 
 ## ⚒️ Languages and Tools
 <p align="center">
