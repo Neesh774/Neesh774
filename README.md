@@ -21,6 +21,6 @@ Hey! I'm Kanishq. I'm a senior in high school, and I love coding. I work on proj
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=neesh774)
 
 ## 🔗 Links
-Website: [Ilios](https://www.ilioslabs.dev)
+Website: [Ilios](https://neesh.page)
 
 Twitter: [Neesh774](https://twitter.com/Neesh774)
