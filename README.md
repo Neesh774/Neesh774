@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey! I'm Kanishq. I'm a senior in high school, and I love coding. I work on projects to make your life easier, and love solving problems that other people have. Check out my website to see some of the cool things I've worked on, and feel free to send me a message :)
+Hey! I'm Kanishq, a freshman at Northeastern University, a software engineer, and a web developer. I've been coding since about 3rd grade, and I'm passionate about increasing our standards for the software we use everyday. Check out my website at www.neesh.page!
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Neesh774) 
 [![discord](https://img.shields.io/discord/646470157996261406?color=%235865F2&label=Discord&style=for-the-badge)](https://discord.gg/4Hd8MxuJkv)
